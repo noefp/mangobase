@@ -1,4 +1,4 @@
-      <h1 style="font-size:26px">Genomes</h4>
+      <h1 style="font-size:26px">Genomes</h1>
 
       <h4 class="p_font18">
         Currently there are several mango genome sequences available. Data are available in the <a href="/easy_gdb/downloads.php">Downloads section.</a>
