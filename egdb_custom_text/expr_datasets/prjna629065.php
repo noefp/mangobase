@@ -25,7 +25,8 @@
   This dataset was published by <a href="https://doi.org/10.1016/j.ygeno.2020.07.038" target="_blank">Li et al. 2020</a> 
   and raw data can be found in the BioProject <a href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA629065" target="_blank">PRJNA629065</a>.
 </p>
-<img class='rounded' src='<?php echo "$images_path/expr/renong_unripe.jpeg";?>' width="180px" alt='renong unripe'>
+<!-- <img class='rounded' src='<?php// echo "$images_path/expr/renong_unripe.jpeg";?>' width="180px" alt='renong unripe'> -->
+<span style="margin-left:180px"> </span>
 <img class='rounded' src='<?php echo "$images_path/expr/renong_early_ripe.jpeg";?>' width="180px" alt='renong early ripe'>
 <img class='rounded' src='<?php echo "$images_path/expr/renong_partially_ripe.jpeg";?>' width="180px" alt='renong partially ripe'>
 <img class='rounded' src='<?php echo "$images_path/expr/renong_fully_ripe.jpeg";?>' width="180px" alt='renong fully ripe'>
