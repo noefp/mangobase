@@ -5,8 +5,8 @@
 <h4>Experimental Conditions (2 replicates):</h4>
   <ul>
     <li>0 days harvest.</li>
-    <li>2,7,14 days after harvest stored at 5 celsius.</li>
-    <li>2,7,14 days after harvest stored at 12 celsius.</li>
+    <li>2,7,14 days after harvest (DAH) stored at 5 celsius.</li>
+    <li>2,7,14 days after harvest (DAH) stored at 12 celsius.</li>
   </ul>
 <p>
   Mango (<i>Mangifera indica</i>, cultivar Keitt) were obtained from a commercial storage house (Mor Hasharon, Israel) 
@@ -24,4 +24,6 @@
 <img class='rounded' src='<?php echo "$images_path/expr/keitt_peel_storage_12.jpeg";?>' width="200px" alt='keitt peel storage 12 degrees'>
 <p>
   Mango fruits showing chilling injury symptoms after 19 days of cold storage at 5°C (left) and 12°C (right).
+  <br>
+  <b>DAH</b> = Days After Harvest
 </p>
