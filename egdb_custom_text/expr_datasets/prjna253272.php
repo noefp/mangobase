@@ -1,5 +1,5 @@
 <p>
-  RNA-seq of <i>Mangifera indica</i> (cultivar Keitt) peel in two stages: ripe and overripe (storing them at room temperature approximately 20 °C and 60–65% relative humidity for 12 days).
+  RNA-seq of <i>Mangifera indica</i> (cultivar Keitt) peel in ripe and overripe stages to study cuticle biosynthesis.
 </p>
 <h4>Experimental Conditions (3 replicates):</h4>
   <ul>
@@ -7,8 +7,11 @@
     <li>Peel overripe.</li>
   </ul>
 <p>
-  Mango (<i>Mangifera indica</i>, cultivar Keitt) fruit used for RNA-Seq profiling were obtained from a commercial store at Ithaca, New York, USA. 
-  Peel samples from three fruit were pooled to create a single biological replicate and three independent biological replicates of both ripe and overripe fruit were analyzed. 
+  Mango (<i>Mangifera indica</i>, cultivar Keitt) fruit used for RNA-Seq profiling were obtained from a commercial store at Ithaca, New York, USA.
+  The fruit were divided into two stages: ripe and overripe and were stored at room temperature (approximately 20 °C and 60–65% relative humidity) for 12 days. 
+  After ripening, the fruit were stored at 20 °C and 60–65% relative humidity for 18 days, with sampling carried out every six days.
+  Peel samples from three fruit were pooled to create a single biological replicate and 
+  three independent biological replicates of both ripe and overripe fruit were analyzed. 
   cDNA libraries were sequenced by PE sequencing (100 x 2) with Illumina Hiseq 2500 and normalized to TPM.
   
   This dataset was published by <a href="https://doi.org/10.1038/srep46163" target="_blank">Tafolla-Arellano et al. 2017</a> 

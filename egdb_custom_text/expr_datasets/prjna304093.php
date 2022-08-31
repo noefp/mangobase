@@ -1,6 +1,6 @@
 <p>
-  RNA-seq of <i>Mangifera indica</i> (cultivar Keitt) peel tissue (±5 g) was randomly sliced from six fruit per biological replicate
-   at harvest and after 2, 7, and 14 days of cold storage at 5 or 12°C, each with two biological replicates.
+  RNA-seq of <i>Mangifera indica</i> (cultivar Keitt) peel at harvest and after 2, 7, and 14 days of cold storage at 5 or 12°C, 
+  to study storage chilling stress.
 </p>
 <h4>Experimental Conditions (2 replicates):</h4>
   <ul>
@@ -12,7 +12,9 @@
   Mango (<i>Mangifera indica</i>, cultivar Keitt) were obtained from a commercial storage house (Mor Hasharon, Israel) 
   1–2 h after harvest and transported (1 h) to the Agricultural Research Organization (Israel). 
   Uniform, unblemished fruit weighing 424 ± 16 g were selected. 
-  To remove the fruit sap, the fruit was dipped into water after harvest; no other treatment was applied after harvest. 
+  To remove the fruit sap, the fruit was dipped into water after harvest; no other treatment was applied after harvest.
+  Peel tissue (±5 g) was randomly sliced from six fruit per biological replicate at harvest and after 2, 7, and 14 days of cold storage at 5 or 12°C, 
+  each with two biological replicates.
   cDNA libraries were sequenced by SE sequencing with Illumina Hiseq 2000 and normalized to TPM.
   
   This dataset was published by <a href="https://doi.org/10.3389/fpls.2016.01579" target="_blank">Sivankalyani et al. 2016</a> 
