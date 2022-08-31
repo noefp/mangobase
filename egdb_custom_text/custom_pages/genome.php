@@ -13,7 +13,7 @@
 				</ul>
       </p>
       <p>
-        Another genome version, from the cultivar Amrapali, was also sequences but is not published yet. The genome assembly information can be found at the NCBI:
+        Another genomes were also sequenced but they are not published yet. Their genome assembly information can be found at the NCBI:
 				<ul>
 					<li><a href="https://www.ncbi.nlm.nih.gov/assembly/GCA_020138855.1/" target="_blank"><i>M.indica</i> Amrapali 3.0</a></li>
 					<li><a href="https://www.ncbi.nlm.nih.gov/assembly/GCA_021014495.1/" target="_blank"><i>M.indica</i> Neelam pat 1.0</a></li>
