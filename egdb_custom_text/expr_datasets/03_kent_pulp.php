@@ -1,5 +1,5 @@
 <p>
-  RNA-seq of <i>Mangifera indica</i> (cultivar Kent) pulp (mesocarp) tissue pulverized with liquid-nitrogen. 
+  RNA-seq of <i>Mangifera indica</i> (cultivar Kent) pulp (mesocarp). 
   Sampling was done at day 1 (mature-green mango) and day 10 (ripe mango), using two individual fruits for each ripening stage.
 </p>
 <h4>Experimental Conditions (2 replicates):</h4>
