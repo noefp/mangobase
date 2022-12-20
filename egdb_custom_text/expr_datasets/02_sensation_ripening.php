@@ -33,4 +33,4 @@
 
 
 
-<b>DAP</b> = Days After pollination?
+<b>DAP</b> = Days After Pollination
