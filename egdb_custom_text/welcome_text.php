@@ -4,17 +4,20 @@
   This site is dedicated to mango genomics, and provides multiple bioinformatics tools to explore and download omics data related to <i>Mangifera indica</i>.
 </h4>
 <p>
-  Mangoes are one of the top fruit crops worldwide in terms of production (more than 55 million tons in 2018), 
-  and are grown in over 103 countries across the tropical and subtropical zones.
-  Mango belongs to the family Anacardiaceae. 
-  Based on morphological characters there are thought to be from 45 to 69 species within the Mangifera genus originating mainly in tropical Asia, 
-  with the area of highest diversity found in western Malesia. 
-  The common mango, <i>M. indica</i>, is typically a large, tropical, and evergreen tree with an upright to spreading dense canopy 
-  that can reach up to 30 m in some climates if not pruned.
-  It was domesticated at least 4000 years ago, 
-  and further developed from an origin in the Assam Valley close to the western border of the Myanmar-Indochinese area 
-  in the Quaternary period and spread throughout the Indian subcontinent.
+  Mango (<i>Mangifera indica</i> L.) (2n = 40) is a member of the Anacardiaceae family, which was domesticated at least 4000 years ago in different regions of Asia. Mangoes belong to the Mangifera genus, where there are between 45 and 69 species approximately, of which 26 species produce edible fruits. Mangoes are delicious fruits, which have great nutritional value. They are one of the major fruit crops worldwide, cultivated in more than 100 countries, with a production of more than 40 million tons in 2021 (FAOSTAT). India, China, Thailand, Indonesia, and Mexico are the top producer countries, although this crop is cultivated in tropical and subtropical regions of all continents but Antarctica, including regions far from the equator, such as the Mediterranean basin in the south of Europe, north of Africa and Middle East.
 </p>
-<center>
-	<img src='<?php echo "$images_path/mangobase_welcome.png";?>' width="300px" alt='img example'>
-</center>
+
+
+<div class="card">
+  <div class="card-body">
+    <h4 class="card-title">News and Events</h4>
+    <p class="card-text"><a href="https://en.mango2023.es/" target="blank">The XIII International Mango Symposium</a> will take place in Málaga, Spain, from September 29th to October 3th, 2023 under the auspices of the International Society for Horticultural Science (ISHS).</p>
+    <p class="card-text">Abtract submission is open until April 1st 2023.</p>
+    <a href="https://en.mango2023.es/" target="blank">
+      <img src='<?php echo "$images_path/mango2023.jpeg";?>' width="860px" alt='mango2023 banner'>
+    </a>
+  </div>
+</div>
+
+<br>
+
