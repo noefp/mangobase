@@ -14,7 +14,7 @@
     <p class="card-text"><a href="https://en.mango2023.es/" target="blank">The XIII International Mango Symposium</a> will take place in Málaga, Spain, from September 29th to October 3th, 2023 under the auspices of the International Society for Horticultural Science (ISHS).</p>
     <p class="card-text">Abtract submission is open until April 1st 2023.</p>
     <a href="https://en.mango2023.es/" target="blank">
-      <img src='<?php echo "$images_path/mango2023.jpeg";?>' width="860px" alt='mango2023 banner'>
+      <img src='<?php echo "$images_path/mango2023.jpeg";?>' style="width:100%; max-width:860px" alt='mango2023 banner'>
     </a>
   </div>
 </div>
