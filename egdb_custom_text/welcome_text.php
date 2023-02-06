@@ -3,7 +3,7 @@
 <h4 class="p_font18">
   This site is dedicated to mango genomics, and provides multiple bioinformatics tools to explore and download omics data related to <i>Mangifera indica</i>.
 </h4>
-<p>
+<p style="text-align: justify">
 Mango (<i>Mangifera indica</i> L.) (2n = 40) is a member of the Anacardiaceae family, which belong to Mangifera, a genus with between 31 and 69 species, of which 26 produce edible fruits. Mangoes are delicious fruits with great nutritional value. They are one of the major fruit crops worldwide, ranking fifth in terms of production among perennial fruit crops worldwide, and currently cultivated in more than 100 countries, with a production of more than 40 million tons in 2021 (FAO-STAT). India, China, Thailand, Indonesia, and Mexico are the main mango producing countries, although this crop is cultivated in tropical and subtropical regions of all continents but Antarctica, including regions far from the equator, such as the Mediterranean basin in the south of Europe, north of Africa and the Middle East. Mango was domesticated at least 4000 years ago in Asia, where two ecogeographic races of mango are distinguished: the Indian type, in subtropical regions, which produces monoembryonic seeds, and the Southeast Asian type, in tropical regions, which produces polyembryonic seeds.
 </p>
 
