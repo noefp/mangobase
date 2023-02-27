@@ -5,7 +5,7 @@
 <h4>Experimental Conditions (These experiments only contain 1 replicate):</h4>
   <ul>
     <li>Peel 0, 4, 17 and 48 hours controls.</li>
-    <li>Peel 0, 4, 17 and 48 hours following post-harvest hot water treatment.</li>
+    <li>Peel 0, 4, 17 and 48 hours following postharvest hot water treatment.</li>
   </ul>
 <p>
   Postharvest treatment by hot water brushing (HWB) for 15–20 s was introduced commercially to improve fruit quality and reduce postharvest disease. 
