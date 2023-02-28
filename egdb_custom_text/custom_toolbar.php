@@ -12,5 +12,6 @@
   <div class="dropdown-menu">
     <a class="dropdown-item" href="/easy_gdb/custom_view.php?file_name=genetic_map_kuhn.php">Maps</a>
     <a class="dropdown-item" href="/easy_gdb/custom_view.php?file_name=links.php">Links</a>
+    <a class="dropdown-item" href="/easy_gdb/help/00_help.php">help</a>
   </div>
 </li>
