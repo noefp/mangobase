@@ -2,7 +2,7 @@
   RNA-seq of <i>Mangifera indica</i> pulp and peel on unripe and ripe stages of the varieties Hongyu, Guire-82, and Sensation, 
   which show different coloration during maturation stages.
 </p>
-<h4>Experimental Conditions (3 replicate):</h4>
+<h4>Experimental Conditions (3 replicates):</h4>
   <ul>
     <li>Unripe peel and pulp of cv. Hongyu (Hon) and Guire-82 (Gui)</li>
     <li>Ripe Peel and pulp of cv. Hongyu (Hon) and Guire-82 (Gui)</li>
