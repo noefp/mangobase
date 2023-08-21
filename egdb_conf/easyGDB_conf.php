@@ -45,7 +45,8 @@ $ab_labs = 1;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="Manin00g000640.1
+$input_gene_list="Manin02g003170.1
+Manin00g000640.1
 Manin00g000650.1
 Manin00g000660.1";
 
@@ -54,6 +55,8 @@ $max_lookup_input = 10000;
 $max_extract_seq_input = 10000;
 $max_blast_input = 10;
 $max_expression_input = 15;
+$max_annotation_input = 5000;
+
 
 // BLAST
 $blast_example=">protein_or_DNA
