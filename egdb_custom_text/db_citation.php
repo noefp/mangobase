@@ -1,7 +1,7 @@
 <div class="row">
   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-    <h4>Please, cite the next references when using this web site or the Tommy Atkins mango genome data respectively:</h4>
+    <h4>Please, cite the next references when using MangoBase or the Tommy Atkins mango genome data respectively:</h4>
 
     <div class="card bg-light">
       <div class= "card-body" style="padding-bottom:0px">
