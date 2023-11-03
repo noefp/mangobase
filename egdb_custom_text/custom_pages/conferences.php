@@ -21,6 +21,16 @@
   <div class="list-group">
     <a href="/downloads/PDFs/mango_2023_book_of_abstracts.pdf" class="list-group-item list-group-item-action"><i class='far fa-file-pdf' style='font-size:30px;color:red'> </i> Book of abstracts</a>
   </div>
+  <div class="list-group">
+    <a href="/downloads/PDFs/mango_symposium_2023_slides.zip" class="list-group-item list-group-item-action"><i class='far fa-file-pdf' style='font-size:30px;color:red'> </i> Slides</a>
+  </div>
+  <div class="list-group">
+    <a href="/downloads/PDFs/mango_symposium_2023_posters.zip" class="list-group-item list-group-item-action"><i class='far fa-file-pdf' style='font-size:30px;color:red'> </i> Posters</a>
+  </div>
+  
+  <p class="card-text text-justify">
+     The content of the presentations may be subject to copyright and should not be distributed or copied without citing the author of the presentation. Some slides are under creative commons licence, indicating that the authors must be mentioned in case of reuse of the material, that it is not for commercial purposes and that a work deriving from these presentations must be shared with the same licencing.
+  </p>
 
   </div>
 </div>
