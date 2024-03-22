@@ -9,8 +9,7 @@ Mango (<i>Mangifera indica</i> L.) (2n = 40) is a member of the Anacardiaceae fa
 </p>
 
 <p style="pading-bottom:40px">
-  Please, <a id="contact_link" onclick="contt()"> <i class="fa fa-envelope" style="font-size:24px;color:#007bff"></i> Contact us</a>
-	if you have any question or request.
+  Please, <a class="contact_link" onclick="contt()"> <i class="fa fa-envelope" style="font-size:24px;color:#007bff"></i> Contact us</a> if you have any question or request. <a class="contact_link" onclick="subscribe()"> <i class="fa fa-envelope" style="font-size:24px;color:#007bff"></i> Subscribe</a> to our distribution list to get and share information about mango research (Remember to change yourName in the subject by your name, EG: Dr. Smith). <a class="contact_link" onclick="unsubscribe()"><i class="fa fa-envelope" style="font-size:24px;color:#007bff"></i> Unsubscribe</a>
 </p>
 
 
@@ -46,9 +45,15 @@ Mango (<i>Mangifera indica</i> L.) (2n = 40) is a member of the Anacardiaceae fa
       //alert("addr: no"+addr);
       window.location.href='mailto:no'+addr+'?subject=MangoBase contact';
   }
+  function subscribe() {
+      window.location.href='mailto:sympa6@listas.csic.es?subject=subscribe MangoBase yourName';
+  }
+  function unsubscribe() {
+      window.location.href='mailto:sympa6@listas.csic.es?subject=unsubscribe MangoBase ';
+  }
 </script>
 <style>
-  #contact_link {
+  .contact_link {
     color: #007bff;
     cursor: pointer;
   }
