@@ -4,6 +4,7 @@
   <div class="list-group">
     <a href="https://www.mango.org/" class="list-group-item list-group-item-action" target="_blank"><i class='fas fa-external-link-alt' style='font-size:24px;color:blue'></i> US National Mango Board</a>
     <a href="https://office.fruttmac.com/wiki" class="list-group-item list-group-item-action" target="_blank"><i class='fas fa-external-link-alt' style='font-size:24px;color:blue'></i> ICIA Mango Germplasm Collection</a>
+    <a href="https://hortsys-apps.cirad.fr/mangoviz/?lang=en" class="list-group-item list-group-item-action" target="_blank"><i class='fas fa-external-link-alt' style='font-size:24px;color:blue'></i> MangoViz</a>
     <a href="http://webtom.cabgrid.res.in/mangosnps/" class="list-group-item list-group-item-action" target="_blank"><i class='fas fa-external-link-alt' style='font-size:24px;color:blue'></i> Mango SNP Database</a>
     <!-- <a href="http://www.mangifera.org/index.php" class="list-group-item list-group-item-action" target="_blank">Mango Resources Information System</a> -->
     <a href="/downloads/PDFs/descriptors_mango.pdf" class="list-group-item list-group-item-action"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptors for mango</a>
