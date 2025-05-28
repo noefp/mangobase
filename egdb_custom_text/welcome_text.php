@@ -1,9 +1,9 @@
 <div class="header-content">
   <br>
-  <h1 class="text-center">Welcome to <span style="color:#c00;">Mango</span>Base</h1>
+  <h1 class="text-center">Welcome to <span style="color:#e63;">Mango</span>Base</h1>
   <h4>A web Portal dedicated to mango genomics</h4>
   <br>
-  <a href="/easy_gdb/about.php" class="btn-find-out-more no-link-style" style="background-color:#c00; border: 1px solid #fff;"><b><span style="color:#fff;">Find out more</span></b></a>
+  <a href="/easy_gdb/about.php" class="btn-find-out-more no-link-style" style="background-color:#c50; border: 1px solid #fff;"><b><span style="color:#fff;">Find out more</span></b></a>
 </div>
 
 

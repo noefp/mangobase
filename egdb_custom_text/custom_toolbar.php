@@ -1,4 +1,4 @@
-<a class="navbar-brand" href="/easy_gdb/index.php"><span style="color:#c00;font-weight: 500;">Mango</span><span style="color:#fff">Base</span></a>
+<a class="navbar-brand" href="/easy_gdb/index.php"><span style="color:#e63;font-weight: 500;">Mango</span><span style="color:#fff">Base</span></a>
 
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Tools</a>
