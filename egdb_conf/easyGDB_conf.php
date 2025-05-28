@@ -67,8 +67,8 @@ $positions=[
 ];
 
 // About
-$ab_citation = 1;
-$ab_labs = 1;
+$ab_citation = 0;
+$ab_labs = 0;
 
 //Gene examples
 $gene_sample = "";

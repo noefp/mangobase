@@ -35,6 +35,9 @@
   </div>
 </li>
 
+<li class="nav-item"><a class="nav-link" href="/easy_gdb/about.php">About</a></li>
+
+
 <style>
 .navbar {
   background: linear-gradient(120deg, #222, #693, #ee3, #c00);
