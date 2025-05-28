@@ -1,0 +1,30 @@
+{
+  "group_name":"",
+  "people":
+  [
+      {"person_name":"Noé Fernández Pozo","position":"","picture":"noe.jpeg","link":"https://www.ihsm.uma-csic.es/investigadores/1031",
+        "more_info":[
+					"Institution: IHSM-CSIC-UMA",
+          "email: noe.fernandez.pozo@csic.es"
+        ]
+      },
+      {"person_name":"Aynhoa Gómez Ollé","position":"","picture":"placeholder1.png","link":"person.php",
+        "more_info":[
+					"Institution: IHSM-CSIC-UMA",
+          "email: "
+        ]
+      },
+      {"person_name":"Iñaki Hormaza","position":"","picture":"inaki.jpeg","link":"https://www.ihsm.uma-csic.es/investigadores/8",
+        "more_info":[
+					"Institution: IHSM-CSIC-UMA",
+          "email: ji.hormaza@csic.es"
+        ]
+      },
+      {"person_name":"Lukas Mueller","position":"","picture":"Lukas.jpeg","link":"https://btiscience.org/lukas-mueller/",
+        "more_info":[
+					"Institution: BTI",
+          "email: lam87@cornell.edu"
+        ]
+      }
+    ]
+}

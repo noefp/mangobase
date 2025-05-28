@@ -1,0 +1,13 @@
+{
+  "logos":
+    [
+      { "image":"bti_logo.jpeg",
+        "link":"https://btiscience.org/",
+        "height":"70"
+      },
+      { "image":"ihsm_logo.png",
+        "link":"https://www.ihsm.uma-csic.es/",
+        "height":"75"
+      }
+    ]
+}

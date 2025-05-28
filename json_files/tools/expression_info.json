@@ -1,0 +1,190 @@
+{
+  "01 Alphonso Multiple Tissues.txt":
+    {
+      "link":"",
+      "description":"01_alphonso.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Alp root":"root.jpg",
+          "Alp bark":"bark.jpeg",
+          "Alp leaf":"mango_leaf.jpeg",
+          "Alp flower":"mango_flower.jpg",
+          "Alp peel":"green_mango_fruit.jpg",
+          "Alp pulp":"green_mango_fruit.jpg",
+          "Alp seed":"mango_seed.jpg"
+        }
+    },
+  "02 Fruit Pulp and Peel Ripening.txt":
+    {
+      "link":"",
+      "description":"02_sensation_ripening.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Hon peel unripe":"hongyu_unripe.jpeg",
+          "Hon peel ripe":"hongyu_ripe.jpeg",
+          "Gui peel unripe":"guire_unripe.jpeg",
+          "Gui peel ripe":"guire_ripe.jpeg",
+          "Hon pulp unripe":"hongyu_unripe.jpeg",
+          "Hon pulp ripe":"hongyu_ripe.jpeg",
+          "Gui pulp unripe":"guire_unripe.jpeg",
+          "Gui pulp ripe":"guire_ripe.jpeg",
+          "Sen peel 94dap":"sensation_94dap.jpeg",
+          "Sen peel 100dap":"sensation_100dap.jpeg",
+          "Sen peel 106dap":"sensation_106dap.jpeg",
+          "Sen peel 112dap":"sensation_112dap.jpeg",
+          "Sen pulp 94dap":"sensation_94dap.jpeg",
+          "Sen pulp 100dap":"sensation_100dap.jpeg",
+          "Sen pulp 106dap":"sensation_106dap.jpeg",
+          "Sen pulp 112dap":"sensation_112dap.jpeg"
+        }
+    },
+  "03 Kent Pulp Ripening.txt":
+    {
+      "link":"",
+      "description":"03_kent_pulp.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Kent pulp unripe":"green_mango_fruit.jpg",
+          "Kent pulp ripe":"ripe_mango_fruit.jpg"
+        }
+    },
+  "04 Keitt Peel Ripening.txt":
+    {
+      "link":"",
+      "description":"04_keitt_peel_cuticle.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Keitt peel ripe":"keitt_peel_ripe.jpg",
+          "Keitt peel overripe":"keitt_peel_overripe.jpg"
+        }
+    },
+  "05 Keitt Peel Storage.txt":
+    {
+      "link":"",
+      "description":"05_keitt_peel_storage.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Keitt peel 0dah":"green_mango_fruit.jpg",
+          "Keitt peel 2dah 5c":"keitt_peel_storage_5.jpeg",
+          "Keitt peel 7dah 5c":"keitt_peel_storage_5.jpeg",
+          "Keitt peel 14dah 5c":"keitt_peel_storage_5.jpeg",
+          "Keitt peel 2dah 12c":"keitt_peel_storage_12.jpeg",
+          "Keitt peel 7dah 12c":"keitt_peel_storage_12.jpeg",
+          "Keitt peel 14dah 12c":"keitt_peel_storage_12.jpeg"
+        }
+    },
+  "06 Tainong and Renong Pulp Ripening.txt":
+    {
+      "link":"",
+      "description":"06_tainong_renong_pulp.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Renong pulp 30dap":"renong_unripe.jpeg",
+          "Renong pulp 95dap":"renong_early_ripe.jpeg",
+          "Renong pulp 130dap":"renong_partially_ripe.jpeg",
+          "Renong pulp ripe":"renong_fully_ripe.jpeg",
+          "Tainong pulp 30dap":"tainong_unripe.jpeg",
+          "Tainong pulp 60dap":"tainong_early_ripe.jpeg",
+          "Tainong pulp 100dap":"tainong_partially_ripe.jpeg",
+          "Tainong pulp ripe":"tainong_fully_ripe.jpeg"
+        }
+    },
+  "07 Tainong Pulp Ripening.txt":
+    {
+      "link":"",
+      "description":"07_tainong_pulp.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Tainong pulp 40 daf":"tainong_pulp_40_daf.jpeg",
+          "Tainong pulp 60 daf":"tainong_pulp_60_daf.jpeg",
+          "Tainong pulp 80 daf":"tainong_pulp_80_daf.jpeg",
+          "Tainong pulp 0 dah":"green_mango_fruit.jpg",
+          "Tainong pulp 4 dah":"tainong_pulp_4_dap.jpeg",
+          "Tainong pulp 8 dah":"tainong_pulp_8_dap.jpeg",
+          "Tainong pulp 12 dah":"tainong_pulp_12_dap.jpeg"
+        }
+    },
+  "08 Chokanan Pulp Ripening.txt":
+    {
+      "link":"",
+      "description":"08_chokanan_pulp.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Cho pulp 21 dap":"green_mango_fruit.jpg",
+          "Cho pulp 75 dap":"ripe_mango_fruit.jpg"
+        }
+    },
+  "09 Chokanan and Golden Phoenix Pulp Ripening.txt":
+    {
+      "link":"",
+      "description":"09_chokanan_Gphoenix_pulp.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Chokanan pulp unripe":"green_mango_fruit.jpg",
+          "Chokanan pulp ripe":"ripe_mango_fruit.jpg",
+          "Goldenl pulp unripe":"green_mango_fruit.jpg",
+          "Goldenl pulp ripe":"ripe_mango_fruit.jpg"
+        }
+    },
+  "10 Shelly Peel Hot Water Treatment.txt":
+    {
+      "link":"",
+      "description":"10_shelly_peel_HWT.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Shelly peel control 0h":"shelly_hwb_control.jpg",
+          "Shelly peel control 4h":"shelly_hwb_control.jpg",
+          "Shelly peel control 17h":"shelly_hwb_control.jpg",
+          "Shelly peel control 48h":"shelly_hwb_control.jpg",
+          "Shelly peel hwb 0h":"shelly_hwb.jpg",
+          "Shelly peel hwb 4h":"shelly_hwb.jpg",
+          "Shelly peel hwb 17h":"shelly_hwb.jpg",
+          "Shelly peel hwb 48h":"shelly_hwb.jpg"
+        }
+    },
+  "11 Ataulfo Pulp Quarantine Postharvest Treatment.txt":
+    {
+      "link":"",
+      "description":"11_Ataulfo_QPT.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Ata pulp unripe CTR":"ata_pulp_unripe_ctr.jpeg",
+          "Ata pulp ripe CTR":"ata_pulp_ripe_ctr.jpeg",
+          "Ata pulp unripe HWT":"ata_pulp_unripe_hwt.jpeg",
+          "Ata pulp ripe HWT":"ata_pulp_ripe_hwt.jpeg"
+        }
+    },
+  "12 Shelly peel Colletotrichum gloeosporioides treatment.txt":
+    {
+      "link":"",
+      "description":"12_shelly_Colletotrichum.php",
+      "annotation_file":"Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+      "images":
+        {
+          "Shelly peel GFGS 0dpi":"gf_0dpi.jpeg",
+          "Shelly peel GFGS 2dpi":"gfgs_12dpi.jpeg",
+          "Shelly peel GFGS 7dpi":"gfgs_12dpi.jpeg",
+          "Shelly peel GFRS 0dpi":"gf_0dpi.jpeg",
+          "Shelly peel GFRS 2dpi":"gfrs_12dpi.jpeg",
+          "Shelly peel GFRS 7dpi":"gfrs_12dpi.jpeg",
+          "Shelly peel RFGS 0dpi":"rf_0dpi.jpeg",
+          "Shelly peel RFGS 2dpi":"rfgs_12dpi.jpeg",
+          "Shelly peel RFGS 7dpi":"rfgs_12dpi.jpeg",
+          "Shelly peel RFRS 0dpi":"rf_0dpi.jpeg",
+          "Shelly peel RFRS 2dpi":"rfrs_12dpi.jpeg",
+          "Shelly peel RFRS 7dpi":"rfrs_12dpi.jpeg"
+        }
+    }
+
+}

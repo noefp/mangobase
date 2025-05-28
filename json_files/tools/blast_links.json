@@ -1,0 +1,9 @@
+{
+  "mango_TA4_genome.fasta":"/jbrowse/?data=data%2Fmango_ta4&loc={chr}%3A{start}..{end}",
+  "mango_TA4_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+  "mango_TA4_cds.fasta":"/easy_gdb/gene.php?name={subject}&annot=Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+  "mango_TA4_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Mango/M.indica_Tommy_Atkins_TA4_annotations.txt",
+  "mango_Alphonso_v2.1_proteins.fasta":"https://www.ncbi.nlm.nih.gov/protein/{subject}?report=genbank&log$=prottop&blast_rank=1&RID=",
+  "mango_Alphonso_v2.1_cDNA.fasta":"https://www.ncbi.nlm.nih.gov/nucleotide/{subject}?report=genbank&log$=nucltop&blast_rank=1&RID=",
+  "mango_Alphonso_v2.1_genome.fasta":"/jbrowse/?data=data%2Fmango_alphonso&loc={chr}%3A{start}..{end}"
+}
