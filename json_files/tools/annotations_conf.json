@@ -1,0 +1,8 @@
+{
+  "M.indica_Tommy_Atkins_TA4_annotations.txt": {
+    "displayed_name":"<i>Mangifera indica</i> 'Tommy Aatkins'",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Fmango_ta4&loc={gene_name}&tracks=DNA%2Cgene_models",
+    "gene_blast_dbs": ["mango_TA4_cds.fasta","mango_TA4_proteins.fasta","mango_TA4_transcripts.fasta"]
+  }
+}
