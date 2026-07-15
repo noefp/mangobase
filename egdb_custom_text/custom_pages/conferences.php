@@ -9,9 +9,17 @@
     </p>
   </div>
 
+   <div class="card shadow-sm border-0 mb-5 text-center p-4" style="border-top: 4px solid #ff6500 !important; border-radius: 8px; background-color: rgba(255, 101, 0, 0.02);">
+    <h3 class="h5 font-weight-bold mb-2"><i class="fas fa-map-marker-alt text-danger mr-2"></i> XV International Mango Symposium (2028)</h3>
+    <p class="text-muted small mb-0">Will be held in Mazatlán, in New Delhi, India, under the auspices of the International Society for Horticultural Science (ISHS).</p>
+  </div>
+
   <div class="card shadow-sm border-0 mb-5 text-center p-4" style="border-top: 4px solid #ff6500 !important; border-radius: 8px; background-color: rgba(255, 101, 0, 0.02);">
     <h3 class="h5 font-weight-bold mb-2"><i class="fas fa-map-marker-alt text-danger mr-2"></i> XIV International Mango Symposium (2025)</h3>
-    <p class="text-muted small mb-0">Mazatlán, in Sinaloa, Mexico, was the chosen location for the upcoming symposium.</p>
+    <p class="text-muted small mb-0">Held in Mazatlán, in Sinaloa, Mexico, under the auspices of the International Society for Horticultural Science (ISHS).</p>
+      <a href="https://ishs.org/symposium/859/" target="_blank" class="btn btn-outline-danger btn-sm btn-block p-2 font-weight-bold" style="border-radius:20px;">
+            <i class="fas fa-external-link-alt ml-1"></i> ISHS page
+          </a>
   </div>
 
   <div class="card shadow-sm border-0 mb-4" style="border-radius: 8px;">
